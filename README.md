@@ -1,4 +1,8 @@
 # todo_app
+## Screenshots
+<img width="446" alt="screenshot_2020_12_24_pm_1_37_54" src="https://user-images.githubusercontent.com/32351460/103062306-1bc0ff00-45f1-11eb-9291-844522c38ad8.png">
+<img width="436" alt="screenshot_2020_12_24_pm_2_05_21" src="https://user-images.githubusercontent.com/32351460/103062310-1fed1c80-45f1-11eb-8a4e-8984c2eda692.png">
+
 
 ## Build Setup
 
